@@ -1,0 +1,16 @@
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod-H Çarpım Tablosu v1.0 Gloster\Kod-H Çarpım Tablosu v1.0 Gloster\bin\Debug\Kod-H Çarpım Tablosu v1.0 Gloster.exe
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod-H Çarpım Tablosu v1.0 Gloster\Kod-H Çarpım Tablosu v1.0 Gloster\bin\Debug\Kod-H Çarpım Tablosu v1.0 Gloster.pdb
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod-H Çarpım Tablosu v1.0 Gloster\Kod-H Çarpım Tablosu v1.0 Gloster\obj\x86\Debug\Kod_H_Çarpım_Tablosu_v1._0_Gloster.Form1.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod-H Çarpım Tablosu v1.0 Gloster\Kod-H Çarpım Tablosu v1.0 Gloster\obj\x86\Debug\Kod_H_Çarpım_Tablosu_v1._0_Gloster.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod-H Çarpım Tablosu v1.0 Gloster\Kod-H Çarpım Tablosu v1.0 Gloster\obj\x86\Debug\Kod-H Çarpım Tablosu v1.0 Gloster.csproj.GenerateResource.Cache
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod-H Çarpım Tablosu v1.0 Gloster\Kod-H Çarpım Tablosu v1.0 Gloster\obj\x86\Debug\Kod-H Çarpım Tablosu v1.0 Gloster.exe
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod-H Çarpım Tablosu v1.0 Gloster\Kod-H Çarpım Tablosu v1.0 Gloster\obj\x86\Debug\Kod-H Çarpım Tablosu v1.0 Gloster.pdb
+F:\1 Github\1 Industryolog\2 Kod-H CSharp Proje\1 Kod-H CSharp Proje Çarpım Tablosu v1.0 Gloster\Kod-H Çarpım Tablosu v1.0 Gloster\obj\x86\Debug\Kod-H Çarpım Tablosu v1.0 Gloster.exe
+F:\1 Github\1 Industryolog\2 Kod-H CSharp Proje\1 Kod-H CSharp Proje Çarpım Tablosu v1.0 Gloster\Kod-H Çarpım Tablosu v1.0 Gloster\obj\x86\Debug\Kod-H Çarpım Tablosu v1.0 Gloster.pdb
+E:\04 - Yazılım\04 - Form Projeleri\61 Çarpım Tablosu V1.0\Kod-H Çarpım Tablosu v1.0 Gloster\obj\x86\Debug\Kod-H Çarpım Tablosu v1.0 Gloster.exe
+E:\04 - Yazılım\04 - Form Projeleri\61 Çarpım Tablosu V1.0\Kod-H Çarpım Tablosu v1.0 Gloster\obj\x86\Debug\Kod-H Çarpım Tablosu v1.0 Gloster.pdb
+E:\04 - Yazılım\04 - Form Projeleri\61 Çarpım Tablosu V1.0\Kod-H Çarpım Tablosu v1.0 Gloster\bin\Debug\Kod-H Çarpım Tablosu v1.0 Gloster.exe
+E:\04 - Yazılım\04 - Form Projeleri\61 Çarpım Tablosu V1.0\Kod-H Çarpım Tablosu v1.0 Gloster\bin\Debug\Kod-H Çarpım Tablosu v1.0 Gloster.pdb
+E:\04 - Yazılım\04 - Form Projeleri\61 Çarpım Tablosu V1.0\Kod-H Çarpım Tablosu v1.0 Gloster\obj\x86\Debug\Kod_H_Çarpım_Tablosu_v1._0_Gloster.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\61 Çarpım Tablosu V1.0\Kod-H Çarpım Tablosu v1.0 Gloster\obj\x86\Debug\Kod_H_Çarpım_Tablosu_v1._0_Gloster.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\61 Çarpım Tablosu V1.0\Kod-H Çarpım Tablosu v1.0 Gloster\obj\x86\Debug\Kod-H Çarpım Tablosu v1.0 Gloster.csproj.GenerateResource.Cache
